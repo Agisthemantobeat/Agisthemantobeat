@@ -45,7 +45,7 @@
 <details>
   <summary>Top Languages:</summary>
   
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agisthemantobeat&layout=compact)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agisthemantobeat&langs_count=8&layout=compact)
  
 </details>
 <br/>
