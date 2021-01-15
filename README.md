@@ -1,7 +1,7 @@
 ### Hi there, I'm Apoorv Gupta - aka [Agisthemantobeat][website] 👋
 
-[![Website](https://img.shields.io/website?label=successwthdecent.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://successwithdecent.com)]
-[![Twitter Follow](https://img.shields.io/twitter/follow/The Decent Coder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/CoderDecent?s=03/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)]
+[![Website](https://img.shields.io/website?label=successwthdecent.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://successwithdecent.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/The_Decent_Coder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/CoderDecent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fagisthemantobeat&screen_name=agisthemantobeat)
 
 ## I'm a Software Engineer,  WhiteHat Hacker, Developer, and Youtuber!!
 
