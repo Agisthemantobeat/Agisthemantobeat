@@ -43,9 +43,9 @@
 
 <br />
 <details>
-  <summary>:Top Languages:</summary>
+  <summary>Top Languages:</summary>
   
- ![Top Languages](img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisthemantobeat&layout=compact")
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agisthemantobeat&layout=compact)
  
 </details>
 <br/>
