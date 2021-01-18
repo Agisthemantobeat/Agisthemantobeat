@@ -73,7 +73,7 @@
 
 </details>
 
-[website]: https://successiwithdecent.com
+[website]: https://successwithdecent.com
 [course]: http://successwithdecent.com
 [twitter]: https://twitter.com/CoderDecent?s=03
 [youtube]: https://www.youtube.com/channel/UChXpfkBr16HsRHGiUlNzShg?sub_confirmation=1
