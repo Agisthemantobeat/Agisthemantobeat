@@ -78,7 +78,7 @@
 [twitter]: https://twitter.com/CoderDecent?s=03
 [youtube]: https://www.youtube.com/channel/UChXpfkBr16HsRHGiUlNzShg?sub_confirmation=1
 [instagram]: https://instagram.com/ag_the_coder
-[linkedin]: https://linkedin.com/in/apoorvguptahcl
+[linkedin]: https://linkedin.com/in/apoorvgupta
 [DSAlgo Playlist]: https://youtu.be/uJ5ecMkhAVw?sub_confirmation=1
 [My Unboxing Playlist]: https://youtu.be/2vFPI6cdq5s?sub_confirmation=1
 
